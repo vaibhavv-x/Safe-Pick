@@ -29,6 +29,7 @@ Built with a scalable architecture, SafePick combines AI, data processing, and i
 
 # 🏗️ Project Structure
 
+```bash
 SafePick/
 │
 ├── src/                        # Frontend (Next.js App Router)
@@ -64,7 +65,7 @@ SafePick/
 ├── digest.txt                  # Logs / debug
 ├── errors.txt                  # Error logs
 ├── ts_errors.txt               # TypeScript errors
-
+```
 
 # 🛠️ Tech Stack
 
