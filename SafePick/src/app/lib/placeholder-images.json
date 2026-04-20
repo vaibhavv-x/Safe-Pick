@@ -1,0 +1,17 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "qr-code",
+      "description": "Simulated QR Code",
+      "imageUrl": "https://picsum.photos/seed/qr123/400/400",
+      "imageHint": "qr code"
+    },
+    {
+      "id": "safepick-logo",
+      "description": "SafePick Brand Logo",
+      "imageUrl": "https://picsum.photos/seed/safepick/200/200",
+      "imageHint": "security shield"
+    }
+  ]
+}
