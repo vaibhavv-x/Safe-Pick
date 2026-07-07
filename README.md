@@ -10,6 +10,9 @@ AI-Powered Smart Decision & Safety Platform
   <img src="https://img.shields.io/badge/AI-Genkit-purple?style=for-the-badge"/>
 </p>
 
+# 🌐 Live Deployment
+
+- **Live App:** https://safe-pick-sand.vercel.app/
 
 # 🚀 Overview
 
